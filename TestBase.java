@@ -20,6 +20,7 @@ public class TestBase {
 	public static RequestSpecification httpRequest;
 	public static Response response;
 	public static RequestSpecification http;
+	public Logger logger1;
 	
 	
 	
