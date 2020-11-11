@@ -20,7 +20,7 @@ public class TC002_LOGIN_user extends TestBase{
 	static RequestSpecification httpRequest;
 	static Response response, response01;
 	static String username = "rupeek";
-	static String password = "password";
+	static String password = "anewpassword";
 	private static JSONObject json;
 
 
