@@ -42,6 +42,7 @@ public class TC001_REG_user extends TestBase{
 		logger.info("********* Started TC001_REG_user  **********");
 		getResponce();
 		Thread.sleep(5000);
+		// a force push commit comment added
 
 	}
 
